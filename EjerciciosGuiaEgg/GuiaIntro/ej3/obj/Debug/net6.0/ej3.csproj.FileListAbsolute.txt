@@ -1,0 +1,15 @@
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/ej3/bin/Debug/net6.0/ej3
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/ej3/bin/Debug/net6.0/ej3.deps.json
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/ej3/bin/Debug/net6.0/ej3.runtimeconfig.json
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/ej3/bin/Debug/net6.0/ej3.dll
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/ej3/bin/Debug/net6.0/ref/ej3.dll
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/ej3/bin/Debug/net6.0/ej3.pdb
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/ej3/obj/Debug/net6.0/ej3.csproj.AssemblyReference.cache
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/ej3/obj/Debug/net6.0/ej3.GeneratedMSBuildEditorConfig.editorconfig
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/ej3/obj/Debug/net6.0/ej3.AssemblyInfoInputs.cache
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/ej3/obj/Debug/net6.0/ej3.AssemblyInfo.cs
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/ej3/obj/Debug/net6.0/ej3.csproj.CoreCompileInputs.cache
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/ej3/obj/Debug/net6.0/ej3.dll
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/ej3/obj/Debug/net6.0/ref/ej3.dll
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/ej3/obj/Debug/net6.0/ej3.pdb
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/ej3/obj/Debug/net6.0/ej3.genruntimeconfig.cache

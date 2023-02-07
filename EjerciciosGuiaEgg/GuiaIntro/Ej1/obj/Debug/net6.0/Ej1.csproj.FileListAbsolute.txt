@@ -1,0 +1,15 @@
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/Ej1/obj/Debug/net6.0/Ej1.csproj.AssemblyReference.cache
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/Ej1/obj/Debug/net6.0/Ej1.GeneratedMSBuildEditorConfig.editorconfig
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/Ej1/obj/Debug/net6.0/Ej1.AssemblyInfoInputs.cache
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/Ej1/obj/Debug/net6.0/Ej1.AssemblyInfo.cs
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/Ej1/obj/Debug/net6.0/Ej1.csproj.CoreCompileInputs.cache
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/Ej1/bin/Debug/net6.0/Ej1
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/Ej1/bin/Debug/net6.0/Ej1.deps.json
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/Ej1/bin/Debug/net6.0/Ej1.runtimeconfig.json
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/Ej1/bin/Debug/net6.0/Ej1.dll
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/Ej1/bin/Debug/net6.0/ref/Ej1.dll
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/Ej1/bin/Debug/net6.0/Ej1.pdb
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/Ej1/obj/Debug/net6.0/Ej1.dll
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/Ej1/obj/Debug/net6.0/ref/Ej1.dll
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/Ej1/obj/Debug/net6.0/Ej1.pdb
+/home/alfre/Documents/Learning_dotnet_C#/EjerciciosGuiaEgg/GuiaIntro/Ej1/obj/Debug/net6.0/Ej1.genruntimeconfig.cache

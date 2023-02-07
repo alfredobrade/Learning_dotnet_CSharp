@@ -1,0 +1,15 @@
+/home/alfre/Documents/Learning_dotnet_C#/HelloWorld/bin/Debug/net6.0/HelloWorld
+/home/alfre/Documents/Learning_dotnet_C#/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/home/alfre/Documents/Learning_dotnet_C#/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/home/alfre/Documents/Learning_dotnet_C#/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/home/alfre/Documents/Learning_dotnet_C#/HelloWorld/bin/Debug/net6.0/ref/HelloWorld.dll
+/home/alfre/Documents/Learning_dotnet_C#/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/home/alfre/Documents/Learning_dotnet_C#/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/home/alfre/Documents/Learning_dotnet_C#/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/alfre/Documents/Learning_dotnet_C#/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/home/alfre/Documents/Learning_dotnet_C#/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/home/alfre/Documents/Learning_dotnet_C#/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/alfre/Documents/Learning_dotnet_C#/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/home/alfre/Documents/Learning_dotnet_C#/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
+/home/alfre/Documents/Learning_dotnet_C#/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/home/alfre/Documents/Learning_dotnet_C#/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
